@@ -5,6 +5,13 @@
       "title": "itni narazgi",
       "category": "Punjabi",
       "url": "https://raw.githubusercontent.com/gsmyogeshjoshi-wq/music/main/songs/itni_narazgi.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Chalte Chalte Ye Dil....",
+      "category": "Hindi",
+      "url": "https://raw.githubusercontent.com/gsmyogeshjoshi-wq/music/main/songs/Chalte_Chalte_Ye_Dil.....mp3",
+      "thumbnail": "https://raw.githubusercontent.com/gsmyogesh/music-app-backend/main/default_cover.png"
     }
   ]
 }
