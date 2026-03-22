@@ -12,6 +12,13 @@
       "category": "Hindi",
       "url": "https://raw.githubusercontent.com/gsmyogeshjoshi-wq/music/main/songs/Chalte_Chalte_Ye_Dil.....mp3",
       "thumbnail": "https://raw.githubusercontent.com/gsmyogesh/music-app-backend/main/default_cover.png"
+    },
+    {
+      "id": 3,
+      "title": "Spouse",
+      "category": "Hindi",
+      "url": "https://raw.githubusercontent.com/gsmyogeshjoshi-wq/music/main/songs/Spouse.mp3",
+      "thumbnail": "https://raw.githubusercontent.com/gsmyogesh/music-app-backend/main/default_cover.png"
     }
   ]
 }
